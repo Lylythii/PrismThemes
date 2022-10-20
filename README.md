@@ -16,3 +16,9 @@ Simply drag & drop the contents of your chosen theme into your PrismLauncher or 
 
 ### Ivy
 ![Logo](./ivy.png)
+
+### Nord - Polar Night
+![Logo](./nord_polar_night.png)
+
+### Nord - Snow Storm
+![Logo](./nord_snow_storm.png)
