@@ -11,10 +11,8 @@ Simply drag & drop the contents of your chosen theme into your PrismLauncher or 
 3. Traverse to `Settings > PrismLauncher > User Interface > Colors`.
 4. Select `Custom`.
 
-### Themes
-
-#### Amoled
+### Amoled
 ![Logo](./amoled.png)
 
-#### Ivy
+### Ivy
 ![Logo](./ivy.png)
