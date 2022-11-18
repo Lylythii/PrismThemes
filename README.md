@@ -1,4 +1,6 @@
 
+[Moved to official PrismLauncher themes repo.](https://github.com/PrismLauncher/Themes)
+
 ### Themes for PrismLauncher.
 Also works in MultiMC!
 
